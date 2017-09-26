@@ -1,3 +1,53 @@
+FAQ
+----------------------------
+
+_What is a code review?_
+
+A code review is when a group of people get together and talk about a
+part of one person's code. This code can either be something really
+cool you discovered and would like to share, something you would like
+feedback on (optimization, stuck on a problem, …), or simply
+something representative of your work. It is a common practice in
+software development and has been found to be the most effective way
+to find bugs in code. Here is an interesting piece on introducing code
+review to scientists: http://arxiv.org/pdf/1407.5648v2.pdf [1]
+
+_Why are you founding this group?_
+
+I have found code reviews to be a great place to learn. When I present
+my code it is useful to hear comments and feedback and gain a
+different perspective on my work. When other people present I learn
+new techniques, am introduced to new packages, and pick up tricks I
+never would have otherwise seen.
+
+_Who should attend?_
+
+All levels are welcome and encouraged to attend - I believe it will be
+most successful with a full spectrum of coding levels (from thinking
+about coding to expert). To begin I would like to stick with Python as
+language. However, once we have established the group we can discuss
+expanding to other languages and people. Feel free to invite
+undergrads and research staff, too!
+
+_When?_
+
+We will be meeting bi-weekly, time TBA by the beginning of next
+semester, i.e. October 2017.
+
+_How?_
+
+I have created a github repository [2] for the group. In the beginning
+of our meetings in October I will provide an introduction to git and
+github to anyone who does not feel comfortable using the tool. Every
+other week a different person will volunteer to present their code to
+the group. The code presented should be fairly self-contained and not
+more than a page. It should also include some comments for the ease of
+use of the group. Code should be available at least 24 hours prior to
+the meeting. If you have time, you can comment on the code directly on
+github. In our meeting, the person presenting the code will give a
+little background on why they are writing the code and then walk the
+group through it. We will then discuss it.
+
 Code Review at the University of Potsdam
 -------------------------------------------
 Code of Conduct
