@@ -36,8 +36,7 @@ semester, i.e. October 2017.
 
 _How?_
 
-I have created a github repository [2] for the group. In the beginning
-of our meetings in October I will provide an introduction to git and
+In the beginning of our meetings in October I will provide an introduction to git and
 github to anyone who does not feel comfortable using the tool. Every
 other week a different person will volunteer to present their code to
 the group. The code presented should be fairly self-contained and not
