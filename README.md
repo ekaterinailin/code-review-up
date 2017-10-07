@@ -31,8 +31,7 @@ undergrads and research staff, too!
 
 _When?_
 
-We will be meeting bi-weekly, time TBA by the beginning of next
-semester, i.e. October 2017.
+We will be meeting bi-weekly, starting October 25, 2017 in 2.28.2.080 (Campus Golm)
 
 _How?_
 
