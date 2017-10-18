@@ -1,3 +1,7 @@
+Code Review at the University of Potsdam
+-------------------------------------------
+-------------------------------------------
+
 FAQ
 ----------------------------
 
@@ -46,8 +50,7 @@ github. In our meeting, the person presenting the code will give a
 little background on why they are writing the code and then walk the
 group through it. We will then discuss it.
 
-Code Review at the University of Potsdam
--------------------------------------------
+
 Code of Conduct
 -----------------
 
