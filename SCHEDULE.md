@@ -7,7 +7,7 @@ _Time: 16:15-17:30_
 | Date          | Name               | Subject                | Language |
 | ------------- |:------------------:|:---------------------: |:--------:|
 | 25.10.2017    |  Ekaterina Ilin    |Intro: code review      |    -     |
-| 08.11.2017    | Mitali Damle       |                        |          |
+| 08.11.2017    | Mitali Damle       |if/else, while & for    | Python 3 |
 | 22.11.2017    | Ekaterina Ilin     |Intro to git            |    -     |
 | 06.12.2017    | Syed Ahmed         |                        |          |
 | 20.12.2017    | Ekaterina Ilin     |                        |          |
